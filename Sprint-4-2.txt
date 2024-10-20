@@ -1,0 +1,89 @@
++ Task 4.1: 
+
+-------- Literature review on xAI techniques  
++ Model-Independent techniques: model agnostic 
+- SHAP values  
+- Partial Dependence Graphs
+- Permutation Importance 
+
++ Local explanations: shedding lights on a model's prediction on a particular input or instance of the data set. This is useful for debugging and error analysis (can also be used to pin-point areas that need improvement)
+- LIME (Local Interpretable Model-Agnostic Evaluation)
+- Anchors 
+
+
+
++ Global explanations: give a broad knowledge of the model's decision-making processes in relation to all inputs. 
+- SHAP values 
+- ICE (Individual Conditional Expectation) plots 
+- Counterfactuals: preferred by domain experts. 
+
+- Gradient-Based Appproach: preferred by Data Scientists or  ML engineers to evaluate the model's feature attribution. 
+
+
+
++  Evaluate the applicability of each technique to the current project
+- To-be-inserted
+
++ Select 3xAI techniques from the researched list for implementations 
+- To-be-inserted
+
++ Integrate the selected xAI techniques into the existing model pipelines 
+- To-be-inserted: 
+
+
+
+
+
+I will need you to fill up the sections above. Talk in details about xAI techniques and their applicability to the project or the railroad data 
+-------- Literature review on xAI techniques  
++ Model-Independent techniques: model agnostic 
+- SHAP values  
+- Partial Dependence Graphs
+- Permutation Importance 
+
++ Local explanations: shedding lights on a model's prediction on a particular input or instance of the data set. This is useful for debugging and error analysis (can also be used to pin-point areas that need improvement)
+- LIME (Local Interpretable Model-Agnostic Evaluation)
+- Anchors 
+
+
+
++ Global explanations: give a broad knowledge of the model's decision-making processes in relation to all inputs. 
+- SHAP values 
+- ICE (Individual Conditional Expectation) plots 
+- Counterfactuals: preferred by domain experts. 
+
+- Gradient-Based Appproach: preferred by Data Scientists or  ML engineers to evaluate the model's feature attribution. 
+
+
+
++  Evaluate the applicability of each technique to the current project
+- To-be-inserted
+
++ Select 3xAI techniques from the researched list for implementations 
+- To-be-inserted
+
++ Integrate the selected xAI techniques into the existing model pipelines 
+- To-be-inserted: 
+
+
+
+
+
+I will need you to fill up the sections above. Talk in details about xAI techniques and their applicability to the project or the railroad data 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
